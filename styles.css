@@ -1,0 +1,18 @@
+
+	Body{
+	background-image: url("175.JPG"); no-repeat center center fixed; 
+  		-webkit-background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		background-size: cover;
+  	padding-left: 270px;
+  	padding-top: 60px
+
+
+	}
+  	.headshot1 {
+    	border-radius: 50%;
+    	max-width: 150px;
+
+
+  
